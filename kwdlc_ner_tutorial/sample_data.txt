@@ -1,0 +1,22 @@
+カナダ	B-LOCATION
+の	O
+モントリオール	B-ORGANIZATION
+大学	M-ORGANIZATION
+教授	O
+ヨシュア	B-PERSON
+・	M-PERSON
+ベンジオ	E-PERSON
+氏	O
+EOS
+米	B-LOCATION
+Google	B-ORGANIZATION
+の	O
+エンジニアリング	O
+フェロー	O
+も	O
+務める	O
+ジェフリー	B-PERSON
+・	M-PERSON
+ヒントン	E-PERSON
+博士	O
+EOS
