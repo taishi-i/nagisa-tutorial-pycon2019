@@ -39,4 +39,4 @@
 ## 参考リンク
 - [nagisa](https://github.com/taishi-i/nagisa)
 - [Pythonで動く形態素解析ツール「nagisa」を使ってみた](https://upura.hatenablog.com/entry/2018/09/18/203540)
-- [かなり便利】形態素解析ツールのnagisa（なぎさ）を知っていますか？【Mecabより簡単】](https://yolo.love/nlp/nagisa/)
+- [【かなり便利】形態素解析ツールのnagisa（なぎさ）を知っていますか？【Mecabより簡単】](https://yolo.love/nlp/nagisa/)
