@@ -40,3 +40,5 @@
 - [nagisa](https://github.com/taishi-i/nagisa)
 - [Pythonで動く形態素解析ツール「nagisa」を使ってみた](https://upura.hatenablog.com/entry/2018/09/18/203540)
 - [【かなり便利】形態素解析ツールのnagisa（なぎさ）を知っていますか？【Mecabより簡単】](https://yolo.love/nlp/nagisa/)
+- [PyCon2019 レポート Python による日本語自然言語処理 〜系列ラベリングによる実世界テキスト分析〜](https://qiita.com/hassaku_63/items/a08fdaf5c7268415984e)
+- [Windows でインストールに失敗する場合: "pip install nagisa"でいろいろやった話](https://qiita.com/F_murasaki/items/9359cab8dd56a30c885e)
